@@ -9,7 +9,7 @@ v2ray、Clash免费节点爬虫，每日 10、16、22 点运行一次。
 
 ## v2ray/clash订阅链接:
 
-| 爬虫目标 | 订阅链接 | 订阅链接([镜像网站加速](https://ghgo.xyz/)) |
+| 爬虫目标 | 订阅链接 | 订阅链接([镜像网站加速](https://ghfast.top/)) |
 | ---- | ---- | ---- |
 | [yudou66](https://www.yudou66.com) | [nodes/yudou66.txt](https://raw.githubusercontent.com/shidahuilang/node/main/nodes/yudou66.txt)<br>[nodes/yudou66.yaml](https://raw.githubusercontent.com/shidahuilang/node/main/nodes/yudou66.yaml) | [nodes/yudou66.txt](https://ghfast.top/raw.githubusercontent.com/shidahuilang/node/main/nodes/yudou66.txt)<br>[nodes/yudou66.yaml](https://ghfast.top/raw.githubusercontent.com/shidahuilang/node/main/nodes/yudou66.yaml) |
 | [blues](https://blues2022.blogspot.com) |  |  |
