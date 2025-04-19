@@ -36,3 +36,4 @@ jobs:
           files: config.json scrapy.log nodes/*
           force: 1
           empty: 1
+          access_token: ${{ secrets.GITHUB_TOKEN }}
